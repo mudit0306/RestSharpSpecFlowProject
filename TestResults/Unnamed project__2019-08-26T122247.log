@@ -1,0 +1,153 @@
+﻿2019-08-26T12:22:47.1329573+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-08-26T12:22:47.1329573+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.377 in Framework clr40 in x86 mode execution started
+2019-08-26T12:22:47.1329573+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\mudit.gaur\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-08-26T12:22:47.1700250+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\mudit.gaur\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+2019-08-26T12:22:47.1700250+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\mudit.gaur\source\repos\UnitTestProject1\TestResults" (default)
+2019-08-26T12:22:47.1700250+05:30;VSTestExecutionThread;Info;Profile: 
+2019-08-26T12:22:47.1910806+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\mudit.gaur\source\repos\UnitTestProject1\TestResults\Unnamed project__2019-08-26T122247.log
+2019-08-26T12:22:47.1930862+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-08-26T12:22:47.2001043+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-08-26T12:22:47.2071230+05:30;Thread#13;Info;Checking license
+2019-08-26T12:22:47.2071230+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-08-26T12:22:47.2081266+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-08-26T12:22:47.2191545+05:30;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-08-26T12:22:59.2222855+05:30;Thread#13;Info;Evaluation delay finished.
+2019-08-26T12:22:59.2321519+05:30;Thread#13;Info;License check completed
+2019-08-26T12:22:59.2321519+05:30;Thread#13;Info;starting test run
+2019-08-26T12:22:59.2972928+05:30;Thread#13;Info;Discovering target: Default
+2019-08-26T12:22:59.2972928+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\mudit.gaur\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+2019-08-26T12:22:59.8410542+05:30:Appdomain Disposed
+2019-08-26T12:22:59.8410542+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\mudit.gaur\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+2019-08-26T12:22:59.8420508+05:30:Test Suite Dump
+2019-08-26T12:22:59.8430570+05:30:#0: Unnamed project/ - 
+2019-08-26T12:22:59.8430570+05:30:#1: Default - 
+2019-08-26T12:22:59.8430570+05:30:#2: UnitTestProject1 - 
+2019-08-26T12:22:59.8430570+05:30:#3: Specflow GET Test feature file - 
+2019-08-26T12:22:59.8430570+05:30:#6: Specflow POST Test Feature - 
+2019-08-26T12:22:59.8700989+05:30:#4: Get service test, :, Variant 0 - TestAssembly:UnitTestProject1/Feature:Specflow+GET+Test+feature+file/Scenario:Get+service+test%2c+%3a%2c+Variant+0
+2019-08-26T12:22:59.8700989+05:30:#5: Get service test, :, Variant 1 - TestAssembly:UnitTestProject1/Feature:Specflow+GET+Test+feature+file/Scenario:Get+service+test%2c+%3a%2c+Variant+1
+2019-08-26T12:22:59.8700989+05:30:#7: POST service test, :, Variant 0 - TestAssembly:UnitTestProject1/Feature:Specflow+POST+Test+Feature/Scenario:POST+service+test%2c+%3a%2c+Variant+0
+2019-08-26T12:22:59.8700989+05:30:#8: POST service test, :, Variant 1 - TestAssembly:UnitTestProject1/Feature:Specflow+POST+Test+Feature/Scenario:POST+service+test%2c+%3a%2c+Variant+1
+2019-08-26T12:22:59.8700989+05:30:End: Test Suite Dump
+2019-08-26T12:22:59.8871434+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-08-26T12:22:59.8891487+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-08-26T12:22:59.8891487+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-08-26T12:22:59.8921565+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-08-26T12:22:59.8921565+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-08-26T12:22:59.8921565+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-08-26T12:22:59.8921565+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-08-26T12:22:59.8931593+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-08-26T12:22:59.8931593+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-08-26T12:22:59.8951646+05:30:Thread #0: creating new test thread executor for UnitTestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-08-26T12:22:59.8971696+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-08-26T12:22:59.8971696+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-08-26T12:22:59.8981724+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-08-26T12:23:00.3224505+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-08-26T12:23:00.5015044+05:30:Thread#0:T:-> Loading plugin C:\Users\mudit.gaur\source\repos\UnitTestProject1\UnitTestProject1\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-08-26T12:23:00.5195799+05:30:Thread#0:T:-> Using default config
+2019-08-26T12:23:00.5877639+05:30:Thread#0:B:Given I have the https://reqres.in/ and users
+2019-08-26T12:23:00.7751588+05:30:Thread#0:T:done: SpecflowGETFeatureFileSteps.GivenIHaveTheURI("https://reqres.in/", "users") (0.1s)
+2019-08-26T12:23:00.7771641+05:30:Thread#0:B:When I Execute Request
+2019-08-26T12:23:00.9893590+05:30:Thread#0:T:Executing Request https://reqres.in/api/users
+2019-08-26T12:23:01.7449986+05:30:Thread#0:T:done: SpecflowGETFeatureFileSteps.WhenIExecuteRequest() (1.0s)
+2019-08-26T12:23:01.7449986+05:30:Thread#0:B:Then I should get 200
+2019-08-26T12:23:01.8272807+05:30:Thread#0:T:Response Received {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"}]}
+2019-08-26T12:23:01.8763350+05:30:Thread#0:T:done: SpecflowGETFeatureFileSteps.ThenIShouldGet(200) (0.1s)
+2019-08-26T12:23:01.9123503+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-08-26T12:23:01.9123503+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-08-26T12:23:01.9123503+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-08-26T12:23:01.9123503+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-08-26T12:23:01.9123503+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-08-26T12:23:01.9123503+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-08-26T12:23:01.9123503+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-08-26T12:23:01.9123503+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-08-26T12:23:01.9123503+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-08-26T12:23:01.9324362+05:30:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 1.6079549 seconds
+2019-08-26T12:23:01.9374172+05:30:Thread#0: Test #5/0 is started on thread #0
+2019-08-26T12:23:01.9394575+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-08-26T12:23:01.9404272+05:30:Thread#0:B:Given I have the https://reqres.in/ and
+2019-08-26T12:23:01.9424310+05:30:Thread#0:T:done: SpecflowGETFeatureFileSteps.GivenIHaveTheURI("https://reqres.in/", "") (0.0s)
+2019-08-26T12:23:01.9434331+05:30:Thread#0:B:When I Execute Request
+2019-08-26T12:23:01.9444360+05:30:Thread#0:T:Executing Request https://reqres.in/api/
+2019-08-26T12:23:02.4154462+05:30:Thread#0:T:done: SpecflowGETFeatureFileSteps.WhenIExecuteRequest() (0.5s)
+2019-08-26T12:23:02.4174095+05:30:Thread#0:B:Then I should get 404
+2019-08-26T12:23:02.4184116+05:30:Thread#0:T:Response Received Not found
+2019-08-26T12:23:02.4194148+05:30:Thread#0:T:done: SpecflowGETFeatureFileSteps.ThenIShouldGet(404) (0.0s)
+2019-08-26T12:23:02.4224248+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-08-26T12:23:02.4224248+05:30:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-08-26T12:23:02.4224248+05:30:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-08-26T12:23:02.4224248+05:30:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-08-26T12:23:02.4224248+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-08-26T12:23:02.4224248+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-08-26T12:23:02.4224248+05:30:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-08-26T12:23:02.4224248+05:30:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-08-26T12:23:02.4224248+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-08-26T12:23:02.4254723+05:30:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0.4880551 seconds
+2019-08-26T12:23:02.4264347+05:30:Thread#0: Test #7/0 is started on thread #0
+2019-08-26T12:23:02.4294749+05:30:Thread#0:B:Given I have URI https://reqres.in/ with email janet.weaver@reqres.in and password Janet123
+2019-08-26T12:23:02.4324506+05:30:Thread#0:T:done: SpecflowPOSTTestFeatureSteps.GivenIHaveURIWithEmailAndPassword("https://reqres.in/", "janet.weaver@reqr...", "Janet123") (0.0s)
+2019-08-26T12:23:02.4344548+05:30:Thread#0:B:When I hit the uri
+2019-08-26T12:23:02.4364605+05:30:Thread#0:T:Executing Request https://reqres.in/api/register
+2019-08-26T12:23:02.9751585+05:30:Thread#0:T:Response {"id":2,"token":"QpwL5tke4Pnpja7X2"}
+2019-08-26T12:23:02.9761609+05:30:Thread#0:T:False
+2019-08-26T12:23:02.9781670+05:30:Thread#0:T:done: SpecflowPOSTTestFeatureSteps.WhenIHitTheUri() (0.5s)
+2019-08-26T12:23:02.9801719+05:30:Thread#0:B:Then I should receive Token and Required 200
+2019-08-26T12:23:03.1204149+05:30:Thread#0:T:Response Received {
+2019-08-26T12:23:03.1214167+05:30:Thread#0:T:  "id": 2,
+2019-08-26T12:23:03.1214167+05:30:Thread#0:T:  "token": "QpwL5tke4Pnpja7X2"
+2019-08-26T12:23:03.1224192+05:30:Thread#0:T:}
+2019-08-26T12:23:03.1224192+05:30:Thread#0:T:Expected status code: 200 is same as Actual Status code: 200
+2019-08-26T12:23:03.1234216+05:30:Thread#0:T:Token received QpwL5tke4Pnpja7X2
+2019-08-26T12:23:03.1234216+05:30:Thread#0:T:done: SpecflowPOSTTestFeatureSteps.ThenIShouldReceiveTokenAndRequired(200) (0.1s)
+2019-08-26T12:23:03.1274326+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-08-26T12:23:03.1274326+05:30:Thread#:Scheduler: testitem #8 from normal test queue 
+2019-08-26T12:23:03.1274326+05:30:Thread#0:Scheduler: considering testitem #8 for thread 0
+2019-08-26T12:23:03.1274326+05:30:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2019-08-26T12:23:03.1274326+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2019-08-26T12:23:03.1274326+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2019-08-26T12:23:03.1274326+05:30:Thread#0:Scheduler: using testitem #8 for thread 0
+2019-08-26T12:23:03.1274326+05:30:Thread#0:Scheduler: Test #8 is scheduled for thread
+2019-08-26T12:23:03.1274326+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-08-26T12:23:03.1284358+05:30:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0.7020011 seconds
+2019-08-26T12:23:03.1284358+05:30:Thread#0: Test #8/0 is started on thread #0
+2019-08-26T12:23:03.1294383+05:30:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-08-26T12:23:03.1304407+05:30:Thread#0:B:Given I have URI https://reqres.in/ with email mudit.gaur@test.in and password Mudit123
+2019-08-26T12:23:03.1304407+05:30:Thread#0:T:done: SpecflowPOSTTestFeatureSteps.GivenIHaveURIWithEmailAndPassword("https://reqres.in/", "mudit.gaur@test.in", "Mudit123") (0.0s)
+2019-08-26T12:23:03.1314429+05:30:Thread#0:B:When I hit the uri
+2019-08-26T12:23:03.1314429+05:30:Thread#0:T:Executing Request https://reqres.in/api/register
+2019-08-26T12:23:03.7472745+05:30:Thread#0:T:Response {"error":"Note: Only defined users succeed registration"}
+2019-08-26T12:23:03.7482413+05:30:Thread#0:T:False
+2019-08-26T12:23:03.7502469+05:30:Thread#0:T:done: SpecflowPOSTTestFeatureSteps.WhenIHitTheUri() (0.6s)
+2019-08-26T12:23:03.7512479+05:30:Thread#0:B:Then I should receive Token and Required 400
+2019-08-26T12:23:03.7532908+05:30:Thread#0:T:Response Received {
+2019-08-26T12:23:03.7543031+05:30:Thread#0:T:  "error": "Note: Only defined users succeed registration"
+2019-08-26T12:23:03.7552957+05:30:Thread#0:T:}
+2019-08-26T12:23:03.7655684+05:30:Thread#0:T:Expected status code: 400 is same as Actual Status code: 400
+2019-08-26T12:23:03.7675303+05:30:Thread#0:T:done: SpecflowPOSTTestFeatureSteps.ThenIShouldReceiveTokenAndRequired(400) (0.0s)
+2019-08-26T12:23:03.7695367+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-08-26T12:23:03.7695367+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-08-26T12:23:03.7695367+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-08-26T12:23:03.7695367+05:30:Thread#0:Scheduler: No more tests for thread
+2019-08-26T12:23:03.7725766+05:30:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0.6441408 seconds
+2019-08-26T12:23:03.8128957+05:30:Appdomain Disposed
+2019-08-26T12:23:03.8159038+05:30:Trying to cancel thread
+2019-08-26T12:23:03.8159038+05:30:Thread cancelled
+2019-08-26T12:23:03.8259632+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-08-26T12:23:03.8259632+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-08-26T12:23:03.8259632+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-08-26T12:23:03.8289801+05:30;Thread#13;Info;test run finished
+2019-08-26T12:23:03.8289801+05:30;Thread#13;Info;publishing test results
+2019-08-26T12:23:04.0149178+05:30;Thread#13;Info;test results published
+2019-08-26T12:23:04.0149178+05:30;Thread#13;Info;generating reports
+2019-08-26T12:23:04.2204534+05:30;Thread#13;Info;Starting external report generation process
+2019-08-26T12:23:05.8368656+05:30;Thread#13;Info;Successfully generated reports.
+2019-08-26T12:23:05.8388702+05:30;Thread#13;Info;Successfully generated reports
+2019-08-26T12:23:05.8448865+05:30:Total: 4
+2019-08-26T12:23:05.8458882+05:30:Succeeded: 4
+2019-08-26T12:23:05.8468911+05:30:Ignored: 0
+2019-08-26T12:23:05.8468911+05:30:Pending: 0
+2019-08-26T12:23:05.8468911+05:30:Skipped: 0
+2019-08-26T12:23:05.8478935+05:30:Failed: 0
+2019-08-26T12:23:05.8559447+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-08-26T12:23:05.8559447+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\mudit.gaur\source\repos\UnitTestProject1\TestResults\Unnamed project__2019-08-26T122247.html'
+========== End of log file ==========
